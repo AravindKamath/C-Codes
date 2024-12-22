@@ -1,2 +1,2 @@
 # C-Codes
-Contains basic C Programs
+Contains basic and advanced C programs along with Data Structure representation
